@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	_wordpress_lp_guest	9154b33327dceacd1617bcae2255cd05
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	pmpro_visit	1
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_64be738308803238da93d5fa62d16063	b7c284b364830a38ccaa9bf0d0373803%7C%7C1664169379%7C%7C1664165779%7C%7C0514f6eae1ef64bf410357baea708a35
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	_learn_press_session_64be738308803238da93d5fa62d16063	e9f6b5d18a1e4270bf1678d300b967f9%7C%7C1664169618%7C%7Cf1d555ff4c0c7318d9a77ac17ecda3ea
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	PHPSESSID	mcebu1dtjln6g966i2c9nr4jj6
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+maxcoach.thememove.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	9d1cb901c7fdee301134443763cf9cfa
+

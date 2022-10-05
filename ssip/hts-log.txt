@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Sep 2022 10:40:37 at https://maxcoach.thememove.com/main/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maxcoach.thememove.com/main/ -O1 "C:\xampp\htdocs\ssip" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://maxcoach.thememove.com/main/wp-content/plugins/learnpress/assets/js/global.min.js
+10:58:55	Error: 	"Not Found" (404) at link https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/fonts/icomoon.eot?c3wvz6 (from https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/frontend/events.css)
+10:58:55	Error: 	"Not Found" (404) at link https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/fonts/icomoon.ttf?c3wvz6 (from https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/frontend/events.css)
+10:58:55	Error: 	"Not Found" (404) at link https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/fonts/icomoon.woff?c3wvz6 (from https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/frontend/events.css)
+10:58:55	Error: 	"Not Found" (404) at link https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/fonts/icomoon.svg?c3wvz6 (from https://maxcoach.thememove.com/main/wp-content/plugins/wp-events-manager/assets//css/frontend/events.css)
+11:06:47	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/course/kitchen-coach-course-04/
+11:06:47	Warning: 	File has moved from https://maxcoach.thememove.com/main/course/kitchen-coach-course-04/ to https://maxcoach.thememove.com/main/course/professional-cooking-class/
+11:06:47	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/course/kitchen-coach-course-02/
+11:06:47	Warning: 	File has moved from https://maxcoach.thememove.com/main/course/kitchen-coach-course-02/ to https://maxcoach.thememove.com/main/course/coffee-expert/
+11:06:47	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/course/the-art-of-indian-cooking/
+11:06:47	Warning: 	File has moved from https://maxcoach.thememove.com/main/course/the-art-of-indian-cooking/ to https://maxcoach.thememove.com/main/course/master-the-art-of-indian-cooking-indian-culinary-world/
+11:08:45	Error: 	"Method Not Allowed" (405) at link https://maxcoach.thememove.com/main/xmlrpc.php (from https://maxcoach.thememove.com/main/privacy-policy/)
+11:08:55	Error: 	"Bad Request" (400) at link https://maxcoach.thememove.com/main/wp-admin/admin-ajax.php?action=rest-nonce (from https://maxcoach.thememove.com/main/courses/)
+11:08:56	Warning: 	Found for https://maxcoach.thememove.com/main/membership-account/
+11:08:56	Warning: 	File has moved from https://maxcoach.thememove.com/main/membership-account/ to https://maxcoach.thememove.com/main/wp-login.php?redirect_to=https%3A%2F%2Fmaxcoach.thememove.com%2Fmain%2Fmembership-account%2F
+11:11:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://maxcoach.thememove.com/main/wp-content/uploads/sites/1/2020/04/gym-coaching-blog-03-770x400.jpg (from https://maxcoach.thememove.com/main/how-to-keep-workouts-fresh-in-the-new-year/)
+11:11:11	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/courses/page/1/
+11:11:11	Warning: 	File has moved from https://maxcoach.thememove.com/main/courses/page/1/ to https://maxcoach.thememove.com/main/courses/
+11:11:39	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/events/page/1/
+11:11:39	Warning: 	File has moved from https://maxcoach.thememove.com/main/events/page/1/ to https://maxcoach.thememove.com/main/events/
+11:11:52	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/shop/page/1/
+11:11:52	Warning: 	File has moved from https://maxcoach.thememove.com/main/shop/page/1/ to https://maxcoach.thememove.com/main/shop/
+11:11:54	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/shop/page/1/?shop_archive_preset=left-sidebar
+11:11:54	Warning: 	File has moved from https://maxcoach.thememove.com/main/shop/page/1/?shop_archive_preset=left-sidebar to https://maxcoach.thememove.com/main/shop/?shop_archive_preset=left-sidebar
+11:11:54	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/shop/page/1/?shop_archive_preset=right-sidebar
+11:11:54	Warning: 	File has moved from https://maxcoach.thememove.com/main/shop/page/1/?shop_archive_preset=right-sidebar to https://maxcoach.thememove.com/main/shop/?shop_archive_preset=right-sidebar
+11:12:12	Warning: 	Moved Permanently for https://maxcoach.thememove.com/main/product-category/book/page/1/
+11:12:12	Warning: 	File has moved from https://maxcoach.thememove.com/main/product-category/book/page/1/ to https://maxcoach.thememove.com/main/product-category/book/
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 minutes 17 seconds : 1898 links scanned, 1880 files written (169081449 bytes overall) [56102367 bytes received at 28963 bytes/sec], 137148782 bytes transferred using HTTP compression in 1187 files, ratio 16%, 46.2 requests per connection
+(6 errors, 22 warnings, 0 messages)
